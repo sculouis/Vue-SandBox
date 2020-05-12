@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img width="25%" src="./assets/logo.png">
     <hello-world v-model="Subject"></hello-world>
   </div>
 </template>
